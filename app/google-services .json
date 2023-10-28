@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006481402785",
+    "project_id": "coolnotesapp-34e40",
+    "storage_bucket": "coolnotesapp-34e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006481402785:android:cc4c8892ccfb26d44db9e0",
+        "android_client_info": {
+          "package_name": "com.example.coolnotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXqPFHO4HrP46srM2dn5AOMq8dTAsC2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
